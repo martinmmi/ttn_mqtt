@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 ///////////////////////////////////////////////////////////////////////////////
 // arduino_lorawan_esp32_example.ino
 // 
@@ -87,7 +89,7 @@
 
 // (Add other networks here)
 
-#include <Arduino.h>
+
 #include <Arduino_LoRaWAN_network.h>
 #include <Arduino_LoRaWAN_EventLog.h>
 #include <arduino_lmic.h>
